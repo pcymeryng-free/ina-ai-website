@@ -89,16 +89,16 @@ const I18N = {
     "es": "Inteligencia en Infraestructura Digital"
   },
   "home.hero.eyebrow": {
-    "en": "The First AI-Native Advisory Platform",
-    "es": "La Primera Plataforma de Asesoría Nativa en IA"
+    "en": "Digital Infrastructure Intelligence",
+    "es": "Inteligencia en Infraestructura Digital"
   },
   "home.hero.title": {
-    "en": "Consultants decide. <em>AI</em> does the work.",
-    "es": "Los consultores deciden. La <em>IA</em> hace el trabajo."
+    "en": "The advisory platform for digital infrastructure, project structuring &amp; <em>AI-native</em> investment intelligence.",
+    "es": "La plataforma de asesoría para infraestructura digital, estructuración de proyectos e inteligencia de inversión <em>nativa en IA</em>."
   },
   "home.hero.lede": {
-    "en": "INA isn't a legacy consultancy with AI features bolted on. It was conceived 100% around artificial intelligence from day one — AI agents run the underlying analysis, drafting and monitoring across every project, while INA's consultants focus entirely on judgment, validation and the client relationship.",
-    "es": "INA no es una consultora tradicional a la que le agregaron funciones de IA. Fue concebida 100% alrededor de la inteligencia artificial desde el primer día — los agentes de IA ejecutan el análisis, la redacción y el monitoreo de fondo en cada proyecto, mientras los consultores de INA se dedican por completo al criterio, la validación y la relación con el cliente."
+    "en": "INA transforms complex digital infrastructure opportunities &mdash; fiber backbones, submarine cables, data centers, satellite constellations, AI compute &mdash; into bankable, investable and sustainable projects, for governments, development banks, investors and technology companies.",
+    "es": "INA transforma oportunidades complejas de infraestructura digital &mdash; redes troncales de fibra, cables submarinos, data centers, constelaciones satelitales, cómputo de IA &mdash; en proyectos bancables, invertibles y sostenibles, para gobiernos, bancos de desarrollo, inversores y empresas tecnológicas."
   },
   "home.hero.cta1": {
     "en": "Explore the Frameworks&trade;",
@@ -489,12 +489,12 @@ const I18N = {
     "es": "Leer más &rarr;"
   },
   "meta.home.title": {
-    "en": "INA — International Network Advisors | Consultants Decide. AI Does The Work.",
-    "es": "INA — International Network Advisors | Los Consultores Deciden. La IA Hace El Trabajo."
+    "en": "INA — International Network Advisors | Digital Infrastructure Intelligence",
+    "es": "INA — International Network Advisors | Inteligencia en Infraestructura Digital"
   },
   "meta.home.desc": {
-    "en": "INA is the first AI-native advisory platform for digital infrastructure — conceived 100% around artificial intelligence, not a legacy consultancy with AI added on.",
-    "es": "INA es la primera plataforma de asesoría nativa en IA para infraestructura digital — concebida 100% alrededor de la inteligencia artificial, no una consultora tradicional con IA agregada."
+    "en": "INA is the advisory platform for digital infrastructure, project structuring and AI-native investment intelligence.",
+    "es": "INA es la plataforma de asesoría para infraestructura digital, estructuración de proyectos e inteligencia de inversión nativa en IA."
   },
   "crumb.why": {
     "en": "Why INA",
