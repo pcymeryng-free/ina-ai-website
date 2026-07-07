@@ -3027,6 +3027,58 @@ const I18N = {
   "meta.contact.desc": {
     "en": "Start a professional engagement with INA.",
     "es": "Iniciá una consulta profesional con INA."
+  },
+  "nav.finance": {
+    "en": "Multilateral Finance",
+    "es": "Financiamiento Multilateral"
+  },
+  "crumb.finance": {
+    "en": "Multilateral Finance",
+    "es": "Financiamiento Multilateral"
+  },
+  "fw.f6.financePointer": {
+    "en": "See the full Multilateral Finance landscape &rarr;",
+    "es": "Ver el panorama completo de Financiamiento Multilateral &rarr;"
+  },
+  "fin.how.eyebrow": {
+    "en": "How INA Helps",
+    "es": "Cómo Ayuda INA"
+  },
+  "fin.how.lede": {
+    "en": "Part of the INA Frameworks&trade; Suite &mdash; read the full methodology on the Framework page.",
+    "es": "Parte de la Suite de Frameworks&trade; de INA &mdash; leé la metodología completa en la página de Framework."
+  },
+  "fin.how.h2": {
+    "en": "Who It's For",
+    "es": "Para Quién Es"
+  },
+  "fin.how.for1": {
+    "en": "Multilateral Development Banks structuring co-financing",
+    "es": "Bancos Multilaterales de Desarrollo que estructuran cofinanciamiento"
+  },
+  "fin.how.for2": {
+    "en": "DFIs screening pipeline against mandate",
+    "es": "IFDs evaluando su pipeline contra su mandato"
+  },
+  "fin.how.for3": {
+    "en": "Governments sequencing concessional and commercial capital",
+    "es": "Gobiernos secuenciando capital concesional y comercial"
+  },
+  "fin.how.for4": {
+    "en": "Investors assessing blended-finance structures",
+    "es": "Inversores evaluando estructuras de financiamiento combinado"
+  },
+  "fin.how.cta": {
+    "en": "Read the full Framework &rarr;",
+    "es": "Leé el Framework completo &rarr;"
+  },
+  "fin.cta.eyebrow": {
+    "en": "Ready to Talk Financing",
+    "es": "Listos para Hablar de Financiamiento"
+  },
+  "fin.cta.title": {
+    "en": "Bring us the project. We'll map the capital stack.",
+    "es": "Traenos el proyecto. Nosotros mapeamos la estructura de capital."
   }
 };
 const SELECT_OPTIONS = {"type": {"en": ["Government / Regulator", "Development Finance Institution", "Investor / Infrastructure Fund", "Technology Company", "Other"], "es": ["Gobierno / Regulador", "Institución de Financiamiento para el Desarrollo", "Inversor / Fondo de Infraestructura", "Empresa Tecnológica", "Otro"]}};
