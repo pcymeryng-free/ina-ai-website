@@ -93,8 +93,8 @@ const I18N = {
     "es": "Inteligencia en Infraestructura Digital"
   },
   "home.hero.title": {
-    "en": "The advisory platform for digital infrastructure, project structuring &amp; <em>AI-native</em> investment intelligence.",
-    "es": "La plataforma de asesoría para infraestructura digital, estructuración de proyectos e inteligencia de inversión <em>nativa en IA</em>."
+    "en": "The <em>AI-native</em> advisory platform for digital infrastructure, project structuring &amp; investment intelligence.",
+    "es": "La plataforma de asesoría <em>nativa en IA</em> para infraestructura digital, estructuración de proyectos e inteligencia de inversión."
   },
   "home.hero.lede": {
     "en": "INA transforms complex digital infrastructure opportunities &mdash; fiber backbones, submarine cables, data centers, satellite constellations, AI compute &mdash; into bankable, investable and sustainable projects, for governments, development banks, investors and technology companies.",
@@ -513,8 +513,8 @@ const I18N = {
     "es": "Visión"
   },
   "why.vision.title": {
-    "en": "To become the leading international advisory platform for digital infrastructure, project structuring and AI-enabled investment intelligence.",
-    "es": "Convertirse en la plataforma internacional de asesoría líder en infraestructura digital, estructuración de proyectos e inteligencia de inversión habilitada por IA."
+    "en": "To become the leading international advisory platform for digital infrastructure, project structuring and investment intelligence.",
+    "es": "Convertirse en la plataforma internacional de asesoría líder en infraestructura digital, estructuración de proyectos e inteligencia de inversión."
   },
   "why.vision.p1": {
     "en": "International Network Advisors (INA) was conceived with a clear ambition: to redefine how governments, development banks, investors and technology companies identify, structure, finance and implement digital infrastructure projects.",
